@@ -1,2 +1,2 @@
 # Notepad
-A notepad which can do all things that default windows notepad can.
+A Notepad that has similar functions to the Windows Default Notepad.
